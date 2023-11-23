@@ -1,0 +1,26 @@
+/*portada.html*/
+
+#contactme{
+  display: flex;
+  justify-content: center;
+  padding-left: 2%;
+}
+#logogladi
+{
+  width: 200px;
+  height: 200px; 
+}
+#priscoyvero
+{
+  width: 200px;
+  height: 200px;
+}
+#fotglad
+{
+  background-color: #242626;
+  color: rgb(175, 54, 9);
+  padding-left: 1%;
+  padding-top: 3%;
+  margin-block-end: 2%;
+  margin-block-start: 3%;
+}
